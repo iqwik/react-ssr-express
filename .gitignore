@@ -1,7 +1,18 @@
-*.log
+# IDE
+.idea
+
+# VScode
+.vscode
+
+# reactJs
 dist
 lib
+
+# nodejs
 node_modules
-*.tsbuildinfo
+yarn-error.log
+.yarn-cache
 yarn.lock
 package-lock.json
+*.log
+*.tsbuildinfo

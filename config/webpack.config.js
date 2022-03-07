@@ -17,8 +17,6 @@ const DIST_PATH = path.resolve(__dirname, '../dist')
 const production = process.env.NODE_ENV === 'production'
 const development = !process.env.NODE_ENV || process.env.NODE_ENV === 'development'
 
-console.log({ production, development })
-
 module.exports = (target) => ({
   name: target,
   mode: development ? 'development' : 'production',

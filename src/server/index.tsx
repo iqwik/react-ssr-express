@@ -73,7 +73,6 @@ app.get('*', (req: Request, res: Response) => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link rel="icon" href="static/assets/img/favicon.ico"/>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
         ${styles}
       </head>
       <body>
