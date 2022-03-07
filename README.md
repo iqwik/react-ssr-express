@@ -5,7 +5,7 @@ __Just educational project. Here I'm learning SSR and lazy loading based on `Rea
 
 ![react](https://img.shields.io/badge/react-built%20with%20typescript-informational.svg?logo=react&logoWidth=20)
 
-This example repository illustrates how to use [loadable-components][2] with an
+This example repository illustrates how to use [loadable-components][1] with an
 SSR app and TypeScript.
 
 ## Features
@@ -35,7 +35,7 @@ Open <http://localhost:3000> and check out the network tab in your dev tools.
 
 ### Docs
 
-- [loadable-components][2]
+- [loadable-components][1]
   - [Server Side Rendering](https://loadable-components.com/docs/server-side-rendering/)
 
 ### Examples
@@ -46,3 +46,5 @@ Open <http://localhost:3000> and check out the network tab in your dev tools.
 ## License
 
 MIT
+
+[1]: https://github.com/gregberge/loadable-components
